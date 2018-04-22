@@ -82,3 +82,4 @@ This will run the automated build process, start up a webserver, and open the ap
 |webpack-dev-middleware| Adds middleware support to webpack |
 |webpack-hot-middleware| Adds hot reloading to webpack |
 "# pluralsight-redux-starter" 
+pluralsight-redux-starter 
